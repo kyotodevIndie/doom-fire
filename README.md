@@ -8,11 +8,7 @@
 </p>
 
 ### Built With
-* [HTML](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-
-
+* [Pixi.js](https://www.pixijs.com/)
 
 <!-- LICENSE -->
 ## License
