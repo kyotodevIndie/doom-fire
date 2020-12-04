@@ -1,4 +1,4 @@
-  <h1 align="center">Doom Fire</h1>
+  <h2 align="center">Doom Fire</h2>
 
   <p align="center">
     A small project to replicate the doom fire!
