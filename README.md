@@ -1,27 +1,11 @@
-# doom-fire
+# Doom Fire
 
-https://doom-fire-jade.vercel.app/
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/kyotodevIndie/default-repository">
-    <img src="assets/hello.gif" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Project Name</h3>
+  <h3 align="center">Doom Fire</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A small project to replicate the doom fire!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://doom-fire-jade.vercel.app/">View Demo</a>
   </p>
 </p>
 
